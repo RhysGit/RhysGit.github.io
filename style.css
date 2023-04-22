@@ -1,0 +1,19 @@
+container {
+    font-family: system-ui;
+    margin: auto;
+    text-align: center;
+}
+title {
+    font-weight: 600;
+    font-size: 30px;
+}
+button {
+    color: white;
+    text-decoration: none;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 10px;
+    background-color: black;
+    padding: 5px;
+    font-size: 23px;
+}
