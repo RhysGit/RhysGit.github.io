@@ -1,13 +1,13 @@
-container {
+div {
     font-family: system-ui;
     margin: auto;
     text-align: center;
 }
-title {
+p {
     font-weight: 600;
     font-size: 30px;
 }
-button {
+a {
     color: white;
     text-decoration: none;
     width: 150px;
