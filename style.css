@@ -1,5 +1,9 @@
+@font-face {
+   font-family: Pixel; 
+   src: url('assets/Grand9K%20Pixel.otf');
+} 
 div {
-    font-family: system-ui;
+    font-family: Pixel;
     margin: auto;
     text-align: center;
 }
